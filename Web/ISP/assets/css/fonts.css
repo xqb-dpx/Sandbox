@@ -1,0 +1,133 @@
+/* -------------------- En -------------------- */
+@font-face {
+    font-family: ubuntu;
+    src: url("../fonts/ubuntu.ttf");
+}
+
+@font-face {
+    font-family: cascadia-code;
+    src: url("../fonts/cascadiacode.ttf");
+}
+
+@font-face {
+    font-family: comic;
+    src: url("../fonts/comic.ttf");
+}
+
+@font-face {
+    font-family: fontawesome;
+    src: url("../fonts/fontawesome.otf");
+}
+
+@font-face {
+    font-family: impact;
+    src: url("../fonts/impact.ttf");
+}
+
+@font-face {
+    font-family: lineicons;
+    src: url("../fonts/lineicons.ttf");
+}
+
+@font-face {
+    font-family: suse;
+    src: url("../fonts/suse.ttf");
+}
+
+/* -------------------- Fa -------------------- */
+@font-face {
+    font-family: lalezar;
+    src: url("../fonts/lalezar.ttf");
+}
+
+@font-face {
+    font-family: shabnam;
+    src: url("../fonts/shabnam.ttf");
+}
+
+@font-face {
+    font-family: tahoma;
+    src: url("../fonts/tahoma.ttf");
+}
+
+@font-face {
+    font-family: dubai;
+    src: url("../fonts/dubai.ttf");
+}
+
+@font-face {
+    font-family: vazirmatn;
+    src: url("../fonts/vazirmatn.ttf");
+}
+
+/* -------------------- En font section -------------------- */
+
+.font-ubuntu {
+    font-family: ubuntu, serif;
+}
+
+.font-cascadia-code {
+    font-family: cascadia-code, serif;
+}
+
+.font-comic {
+    font-family: comic, serif;
+}
+
+.font-fontawsome {
+    font-family: fontawesome, serif;
+}
+
+.font-impact {
+    font-family: impact, serif;
+}
+
+.font-lineicons {
+    font-family: lineicons, serif;
+}
+
+.font-suse {
+    font-family: suse, serif;
+}
+
+/* -------------------- Fa font section -------------------- */
+
+.font-lalezar {
+    font-family: lalezar, serif;
+}
+
+.font-shabnam {
+    font-family: shabnam, serif;
+}
+
+.font-tahoma {
+    font-family: tahoma, serif;
+}
+
+.font-dubai {
+    font-family: dubai, serif;
+}
+
+.font-vazirmatn {
+    font-family: vazirmatn, serif;
+}
+
+* {
+    font-family: suse, serif;
+}
+
+h1 {
+    font-family: ubuntu, serif;
+}
+
+h2 {
+    font-family: ubuntu, serif;
+}
+
+h3 {
+    font-family: ubuntu, serif;
+}
+
+h4 {
+    font-family: ubuntu, serif;
+}

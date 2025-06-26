@@ -1,0 +1,36 @@
+body, html {
+    height: 100%;
+    overflow: hidden;
+}
+
+.chat-container {
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+}
+
+.chat-body {
+    flex: 1;
+    overflow-y: auto;
+    background: #2ed06e;
+    padding: 1rem;
+}
+
+.media-panel {
+    display: none;
+    background: #081828;
+    padding: 0.5rem;
+    border-top: 1px solid #ccc;
+}
+
+.media-panel.show {
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+
+.chat-list {
+    border-left: 1px solid #ddd;
+    height: 100vh;
+    overflow-y: auto;
+}
